@@ -12,6 +12,7 @@ no tracking, and stores your data only on your device.
 
 | App | Live policy | Source |
 |---|---|---|
+| **TeamFamily** | <https://zeropolicy.github.io/legal/teamfamily/privacy-policy/> · [Terms](https://zeropolicy.github.io/legal/teamfamily/terms-of-service/) | [`teamfamily/privacy-policy.md`](teamfamily/privacy-policy.md) · [`teamfamily/terms-of-service.md`](teamfamily/terms-of-service.md) |
 | **Stockpile** | <https://zeropolicy.github.io/legal/stockpile/privacy-policy/> | [`stockpile/privacy-policy.md`](stockpile/privacy-policy.md) |
 | **20 Arcade Club** | <https://zeropolicy.github.io/legal/arcade-club/privacy-policy/> | [`arcade-club/privacy-policy.md`](arcade-club/privacy-policy.md) |
 
