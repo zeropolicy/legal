@@ -74,5 +74,5 @@ of the updated policy.
 
 If you have questions about this privacy policy, contact us at:
 
-**Email:** mehdifadae@gmail.com  
+**Email:** kontakt@zeropolicy.de  
 **GitHub:** <https://github.com/zeropolicy/retro-project-gameplatform>

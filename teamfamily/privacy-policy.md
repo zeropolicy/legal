@@ -81,6 +81,6 @@ updating the "Last updated" date above.
 
 ## Contact
 
-**Email:** mehdifadae@gmail.com  
+**Email:** kontakt@zeropolicy.de  
 **Developer:** Mehdi Fadaei (Zeropolicy)  
 **Web:** https://www.zeropolicy.de

@@ -56,4 +56,4 @@ means you accept the updated terms.
 
 ## 8. Contact
 
-Questions: mehdifadae@gmail.com · https://www.zeropolicy.de
+Questions: kontakt@zeropolicy.de · https://www.zeropolicy.de

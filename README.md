@@ -34,4 +34,4 @@ no tracking, and stores your data only on your device.
 
 ---
 
-Mehdi Fadaei · Zeropolicy · <mehdifadae@gmail.com>
+Mehdi Fadaei · Zeropolicy · <kontakt@zeropolicy.de>
