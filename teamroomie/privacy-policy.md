@@ -34,8 +34,14 @@ storage (AES-256). This data is never sent to us, because we operate no servers:
 - Borrowing (who lent/borrowed what), the fridge planner, and room assignments
 - House rules (Hausordnung) and votes
 - In the **Lead Zone** (separately encrypted, unlocked by biometrics/PIN, and
-  **never synced to a roomie's device**): the lease record (Mietvertrag), the key
-  register, per-roomie rent, private notes, and the document/password vault
+  **never synced to a roomie's device**): the lease record (Mietvertrag), the full
+  key register, the rent records, private notes, and the document/password vault
+- A short **rent summary** (rent, deposit, tenancy dates, keys held) that the
+  Lead's device publishes into the shared data so each roomie's "My Room" works
+  offline. Be aware: like all shared data this is copied to **every** roomie's
+  phone in the WG — encrypted at rest and never leaving your phones, but the app
+  scopes it to its owner in the interface rather than by encryption. Encrypting
+  each summary so only its owner's device can read it is planned.
 
 ## Data We Do NOT Collect
 
