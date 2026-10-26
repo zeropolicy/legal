@@ -34,4 +34,4 @@ no tracking, and stores your data only on your device.
 
 ---
 
-Mehdi Fadaei · Zeropolicy · <kontakt@zeropolicy.de>
+Apps by Mehdi Fadaei · ZEROPOLICY is the brand of the IT department of Ariel Omidi Holding GmbH · <kontakt@zeropolicy.de>

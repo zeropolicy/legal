@@ -5,11 +5,12 @@ permalink: /teamfamily/terms-of-service/
 
 # Terms of Service — TeamFamily
 
-**Last updated: June 2026**
+**Last updated: October 26, 2026**
 
 ## 1. Acceptance
 
-By installing or using TeamFamily ("the app"), made by Mehdi Fadaei / Zeropolicy
+By installing or using TeamFamily ("the app"), made and published by Mehdi Fadaei
+under the ZEROPOLICY brand (the IT department of Ariel Omidi Holding GmbH)
 ("we", "us"), you agree to these terms. If you do not agree, please don't use the
 app.
 

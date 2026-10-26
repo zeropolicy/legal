@@ -5,7 +5,7 @@ permalink: /arcade-club/privacy-policy/
 
 # Privacy Policy — 20 Arcade Club
 
-**Last updated: September 17, 2026**
+**Last updated: October 26, 2026**
 
 ## Overview
 
@@ -89,4 +89,6 @@ We may update this policy when new features are added. Changes will be reflected
 If you have questions about this privacy policy, contact us at:
 
 **Email:** kontakt@zeropolicy.de  
+**Developer and responsible person:** Mehdi Fadaei  
+**Brand:** ZEROPOLICY is the brand of the IT department of Ariel Omidi Holding GmbH; the app itself is published by Mehdi Fadaei personally.  
 **Website:** https://www.zeropolicy.de

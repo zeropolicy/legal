@@ -5,7 +5,7 @@ permalink: /teamfamily/privacy-policy/
 
 # Privacy Policy — TeamFamily
 
-**Last updated: June 2026**
+**Last updated: October 26, 2026**
 
 ## Overview
 
@@ -82,5 +82,6 @@ updating the "Last updated" date above.
 ## Contact
 
 **Email:** kontakt@zeropolicy.de  
-**Developer:** Mehdi Fadaei (Zeropolicy)  
+**Developer and responsible person:** Mehdi Fadaei  
+**Brand:** ZEROPOLICY is the brand of the IT department of Ariel Omidi Holding GmbH; the app itself is published by Mehdi Fadaei personally.  
 **Web:** https://www.zeropolicy.de
